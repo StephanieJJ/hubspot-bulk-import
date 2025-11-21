@@ -1,0 +1,81 @@
+id,firstname,lastname,email,phone,company,jobtitle,lifecyclestage,hs_lead_status,createdate,lastmodifieddate
+494028457148,Zainab,Ali,zainab.ali@islamabadtech.pk,+924567890123,Islamabad Tech,Analyst,marketingqualifiedlead,NEW,2025-10-22T16:57:16.078Z,2025-10-30T08:13:03.205Z
+494052478166,Ibrahima,Diallo,ibrahima.diallo@dakartech.sn,+221345678901,Dakar Tech Solutions,CTO,salesqualifiedlead,NEW,2025-10-22T16:57:16.052Z,2025-10-30T08:13:04.902Z
+494052478167,Sari,Wijaya,sari.wijaya@indonesiafinance.co.id,+622345678901,Indonesia Finance Ltd,Manager,opportunity,ATTEMPTED_TO_CONTACT,2025-10-22T16:57:16.056Z,2025-10-30T08:13:05.756Z
+494052478168,Kofi,Annan,kofi.annan@accratech.com.gh,+233345678901,Accra Technologies,CTO,marketingqualifiedlead,NEW,2025-10-22T16:57:16.083Z,2025-10-30T08:13:08.194Z
+494052478169,Khalid,Al-Madani,khalid.almadani@saudifinance.sa,+966234567890,Saudi Finance Group,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.104Z,2025-10-30T08:13:09.024Z
+494059141354,Isabella,Martinez,isabella.martinez@chilifinance.cl,+56234567890,Chili Finance Group,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.054Z,2025-10-30T08:13:11.880Z
+494059141355,Ayesha,Ahmed,ayesha.ahmed@educationpakistan.pk,+922345678901,Education Pakistan Group,Manager,opportunity,ATTEMPTED_TO_CONTACT,2025-10-22T16:57:16.057Z,2025-10-30T08:13:14.226Z
+494059141356,Fatimah,Bolkiah,fatimah.bolkiah@bruneimanufacturing.bn,+6734567890,Brunei Manufacturing,CEO,lead,NEW,2025-10-22T16:57:16.078Z,2025-10-30T08:13:15.844Z
+494138644686,Pedro,Oliveira,pedro.oliveira@riotech.com.br,+553456789012,Rio Tech Solutions,CTO,salesqualifiedlead,NEW,2025-10-22T16:57:16.053Z,2025-10-30T08:13:18.297Z
+494138644687,Jean,Dubois,jean.dubois@franceconsulting.fr,+33634567890,France Consulting Group,Consultant,opportunity,IN_PROGRESS,2025-10-22T16:57:16.053Z,2025-10-30T08:13:19.139Z
+494138644688,Carmen,Rios,carmen.rios@panamalogistics.com.pa,+50723456789,Panama Logistics,Manager,opportunity,ATTEMPTED_TO_CONTACT,2025-10-22T16:57:16.057Z,2025-10-30T08:13:20.727Z
+494359366856,Sarah,Bolkiah,sarah.bolkiah@bruneifinance.bn,+6732345678,Brunei Finance Group,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.051Z,2025-10-30T08:13:22.423Z
+494359366857,Fatima,Al-Mansouri,fatima.almansouri@qatarifinance.qa,+97423456789,Qatari Finance Solutions,Manager,customer,OPEN_DEAL,2025-10-22T16:57:16.135Z,2025-10-30T08:13:24.684Z
+494372912338,Maria,Oliveira,maria.oliveira@financebrasil.br,+552234567890,Finance Brasil Ltd,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.051Z,2025-10-30T08:13:26.956Z
+494372912339,Isabel,Garcia,isabel.garcia@panamafinance.com.pa,+50745678901,Panama Finance,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.053Z,2025-10-30T08:13:29.461Z
+494372912340,Nour,El-Shabrawy,nour.elshabrawy@alexandriatech.eg,+204567890123,Alexandria Tech,CTO,customer,OPEN_DEAL,2025-10-22T16:57:16.066Z,2025-10-30T08:13:32.141Z
+494394149088,Latifa,Al-Mazrouei,latifa.almazrouei@abudhabifinance.ae,+971456789012,Abu Dhabi Finance,Manager,opportunity,IN_PROGRESS,2025-10-22T16:57:16.104Z,2025-10-30T08:13:34.385Z
+494428629224,Ana,Costa,ana.costa@saopaulofinance.com.br,+554567890123,Sao Paulo Finance,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.053Z,2025-10-30T08:13:36.040Z
+494428629225,Sarah,Chen,sarah.chen@californiafinance.com,+13105556789,California Finance,Manager,lead,NEW,2025-10-22T16:57:16.073Z,2025-10-30T08:13:38.194Z
+494591584497,Mohammed,Al-Saud,mohammed.alsaud@ksatech.sa,+966123456789,KSA Tech Solutions,CEO,lead,NEW,2025-10-22T16:57:16.094Z,2025-10-30T08:13:39.863Z
+494607756479,Siti,Ahmad,siti.ahmad@malaysiaretail.my,+60345678901,Malaysia Retail,Manager,opportunity,IN_PROGRESS,2025-10-22T16:57:16.052Z,2025-10-30T08:13:41.494Z
+494607756480,Sophie,Pedersen,sophie.pedersen@bergenfinance.no,+4745678901,Bergen Finance,Manager,opportunity,ATTEMPTED_TO_CONTACT,2025-10-22T16:57:16.051Z,2025-10-30T08:13:44.043Z
+494781442259,Ahmad,Ibrahim,ahmad.ibrahim@malaysiatech.my,+60312345678,Malaysia Technologies,CEO,salesqualifiedlead,NEW,2025-10-22T16:57:16.103Z,2025-10-30T08:13:46.398Z
+494781442260,Rachid,Benali,rachid.benali@algiersolutions.dz,+213345678901,Algier Solutions,Consultant,marketingqualifiedlead,NEW,2025-10-22T16:57:16.103Z,2025-10-30T08:13:47.920Z
+494786191574,Carlos,Rodriguez,carlos.rodriguez@mexicotech.com.mx,+521234567890,Mexico Tech Solutions,CTO,lead,NEW,2025-10-22T16:57:16.077Z,2025-10-30T08:13:48.689Z
+494786191575,Budi,Santoso,budi.santoso@indonesiatech.co.id,+621234567890,Indonesia Tech Corp,CTO,lead,NEW,2025-10-22T16:57:16.077Z,2025-10-30T08:13:50.282Z
+494792025311,Hassan,Mahmoud,hassan.mahmoud@cairofinance.eg,+203456789012,Cairo Finance Group,Director,salesqualifiedlead,NEW,2025-10-22T16:57:16.053Z,2025-10-30T08:13:52.727Z
+494843917518,Pierre,Martin,pierre.martin@innovationsysteme.fr,+33612345678,Innovation Systeme Ltd,CEO,lead,NEW,2025-10-22T16:57:16.074Z,2025-10-30T08:13:53.669Z
+494843917519,Mariam,Al-Khalifa,mariam.alkhalifa@dohatechnologies.qa,+97445678901,Doha Technologies,Analyst,marketingqualifiedlead,NEW,2025-10-22T16:57:16.103Z,2025-10-30T08:13:56.146Z
+494895447279,Hassanal,Bolkiah,hassanal.bolkiah@bruneitech.bn,+6731234567,Brunei Technologies,CEO,salesqualifiedlead,NEW,2025-10-22T16:57:16.054Z,2025-10-30T08:13:57.604Z
+494895447280,Abdul,Aziz,abdul.aziz@bruneienergy.bn,+6733456789,Brunei Energy Group,Manager,marketingqualifiedlead,OPEN,2025-10-22T16:57:16.063Z,2025-10-23T15:34:44.074Z
+494895447281,Dewi,Paramita,dewi.paramita@indonesiaretail.co.id,+624567890123,Indonesia Retail,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.069Z,2025-10-23T15:34:51.237Z
+494898437347,Mohamed,Djamel,mohamed.djamel@algeriatech.dz,+213123456789,Algeria Tech Innovations,CTO,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.052Z,2025-10-23T15:35:57.657Z
+494898437348,Maria,Gonzalez,maria.gonzalez@mexicohealth.com.mx,+522345678901,Mexico Healthcare,Manager,marketingqualifiedlead,OPEN,2025-10-22T16:57:16.070Z,2025-10-23T15:36:12.210Z
+495002348745,Erik,Jensen,erik.jensen@oslotech.no,+4734567890,Oslo Technologies,CEO,lead,NEW,2025-10-22T16:57:16.077Z,2025-10-23T00:30:48.455Z
+495002348746,Mohd,Ismail,mohd.ismail@kualalumpurtech.my,+60334567890,Kuala Lumpur Tech,CEO,lead,NEW,2025-10-22T16:57:16.103Z,2025-10-27T07:04:27.856Z
+495014789313,Omar,Khan,omar.khan@pakistanmanufacturing.pk,+923456789012,Pakistan Manufacturing,Manager,opportunity,ATTEMPTED_TO_CONTACT,2025-10-22T16:57:16.053Z,2025-10-23T15:34:57.518Z
+495014789314,Marcelo,Gonzalez,marcelo.gonzalez@santiagotech.cl,+56345678901,Santiago Tech,CTO,marketingqualifiedlead,OPEN,2025-10-22T16:57:16.075Z,2025-10-23T15:34:49.736Z
+495014789315,Papa,Diop,papa.diop@senegaltech.sn,+221123456789,Senegal Tech Solutions,CEO,lead,NEW,2025-10-22T16:57:16.078Z,2025-10-23T15:37:41.714Z
+495014789316,Amina,Benali,amina.benali@algeriahealth.dz,+213234567890,Algeria Healthcare,Manager,marketingqualifiedlead,OPEN,2025-10-22T16:57:16.078Z,2025-10-23T15:37:39.262Z
+495028869332,Kwame,Boateng,kwame.boateng@ghanatech.com.gh,+233123456789,Ghana Technologies,CEO,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.051Z,2025-10-23T15:37:15.050Z
+495028869333,Ahmed,Al-Emadi,ahmed.alemadi@uaetechnologies.ae,+971123456789,UAE Technologies Group,CTO,marketingqualifiedlead,OPEN,2025-10-22T16:57:16.077Z,2025-10-23T15:35:26.628Z
+495028869334,Mohamed,El-Sayed,mohamed.elsayed@egypttech.eg,+201234567890,Egypt Tech Solutions,CEO,lead,NEW,2025-10-22T16:57:16.078Z,2025-10-23T15:37:25.025Z
+495030672608,Sophie,Moreau,sophie.moreau@paristechnologies.fr,+33645678901,Paris Technologies,Analyst,customer,OPEN_DEAL,2025-10-22T16:57:16.051Z,2025-10-23T15:35:15.171Z
+495038741717,Yousef,Al-Remeithi,yousef.alremeithi@dubaitech.ae,+971345678901,Dubai Tech Group,CEO,lead,NEW,2025-10-22T16:57:16.083Z,2025-10-23T00:38:49.017Z
+495042776304,John,Smith,john.smith@usatech.com,+12025551234,USA Technologies,CEO,customer,OPEN_DEAL,2025-10-22T16:57:16.050Z,2025-10-23T01:44:47.511Z
+495042776305,Lars,Johansen,lars.johansen@norwaytech.no,+4712345678,Norway Technologies AS,CTO,customer,OPEN_DEAL,2025-10-22T16:57:16.053Z,2025-10-23T15:36:18.484Z
+495053736134,Akosua,Mensah,akosua.mensah@ghanafinance.com.gh,+233234567890,Ghana Finance Ltd,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.053Z,2025-10-23T15:37:07.419Z
+495053736135,Catalina,Lopez,catalina.lopez@chiliretail.cl,+56456789012,Chili Retail,Manager,lead,NEW,2025-10-22T16:57:16.075Z,2025-10-23T15:35:09.245Z
+495057438909,Pablo,Silva,pablo.silva@chilitech.cl,+56123456789,Chili Technologies,CEO,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.049Z,2025-10-23T15:35:30.455Z
+495057438910,Ali,Mohammed,ali.mohammed@zanzibartech.co.tz,+255123456789,Zanzibar Tech Solutions,CTO,marketingqualifiedlead,OPEN,2025-10-22T16:57:16.077Z,2025-10-23T15:35:45.337Z
+495059208420,Halima,Omar,halima.omar@zanzibartourism.co.tz,+255456789012,Zanzibar Tourism,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.052Z,2025-10-23T15:35:11.169Z
+495064709317,Ali,Khan,ali.khan@pakistantech.pk,+921234567890,Pakistan Tech Innovations,CTO,lead,NEW,2025-10-22T16:57:16.095Z,2025-10-23T15:36:26.447Z
+495064861941,Ahmed,Al-Hajri,ahmed.alhajri@qatariconsulting.qa,+97434567890,Qatari Consulting,Consultant,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.053Z,2025-10-23T15:34:55.769Z
+495064861942,João,Silva,joao.silva@brasiltech.com.br,+551112345678,Brasil Tech Corp,CEO,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.053Z,2025-10-23T15:36:45.699Z
+495064861943,Adama,Traore,adama.traore@senegaleducation.sn,+221456789012,Senegal Education,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.055Z,2025-10-23T15:35:10.908Z
+495064861944,Marie,Bernard,marie.bernard@digitalfuture.com,+33623456789,Digital Future Corp,CTO,marketingqualifiedlead,OPEN,2025-10-22T16:57:16.081Z,2025-10-23T00:29:39.832Z
+495066617060,Jose,Garcia,jose.garcia@guadalajaratech.com.mx,+523456789012,Guadalajara Tech,CTO,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.052Z,2025-10-23T15:35:17.116Z
+495066617061,Fatuma,Omar,fatuma.omar@zanzibarfisheries.co.tz,+255234567890,Zanzibar Fisheries,Manager,lead,NEW,2025-10-22T16:57:16.074Z,2025-10-23T15:37:31.741Z
+495066760409,Mohammed,Al-Thani,mohammed.althani@gulftechnologies.qa,+97412345678,Gulf Technologies Group,Director,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.052Z,2025-10-23T15:36:33.439Z
+495070298344,Ingrid,Olsen,ingrid.olsen@scandinaviafinance.no,+4723456789,Scandinavia Finance,Manager,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.053Z,2025-10-23T15:35:29.569Z
+495070298345,Fatima,Al-Kaabi,fatima.alkaabi@emiratesfinance.ae,+971234567890,Emirates Finance Corp,Manager,opportunity,IN_PROGRESS,2025-10-22T16:57:16.052Z,2025-10-23T15:37:10.394Z
+495070298346,Agus,Santoso,agus.santoso@jakartatech.co.id,+623456789012,Jakarta Tech Corp,CTO,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.051Z,2025-10-23T15:34:46.534Z
+495070383323,Fatma,Hassan,fatma.hassan@egyptfinance.eg,+202345678901,Egypt Finance Group,Director,opportunity,IN_PROGRESS,2025-10-22T16:57:16.069Z,2025-10-23T15:35:46.290Z
+495070383324,Juan,Lopez,juan.lopez@panamatech.com.pa,+50712345678,Panama Tech Corp,CTO,lead,NEW,2025-10-22T16:57:16.087Z,2025-10-23T15:36:14.622Z
+495080673483,Nadia,Touati,nadia.touati@algeriaeducation.dz,+213456789012,Algeria Education,Manager,lead,NEW,2025-10-22T16:57:16.077Z,2025-10-23T15:35:13.014Z
+495081645298,James,Smith,james.smith@globaltech.co.uk,+441234567890,Global Tech Solutions,CEO,customer,OPEN_DEAL,2025-10-22T16:57:16.056Z,2025-10-23T15:36:39.590Z
+495081645299,Aminata,Ndiaye,aminata.ndiaye@senegalhealth.sn,+221234567890,Senegal Healthcare,Director,marketingqualifiedlead,OPEN,2025-10-22T16:57:16.065Z,2025-10-23T15:37:18.148Z
+495081645300,Emma,Jones,emma.jones@advancedhealth.co.uk,+442345678901,Advanced Healthcare Ltd,Director,marketingqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.074Z,2025-10-23T15:37:01.318Z
+495081731288,Olivia,Davis,olivia.davis@britishconsulting.co.uk,+444567890123,British Consulting,Consultant,customer,OPEN_DEAL,2025-10-22T16:57:16.051Z,2025-10-23T15:35:01.573Z
+495083635915,Jamal,Ali,jamal.ali@stone-town.tech.co.tz,+255345678901,Stone Town Technologies,CTO,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.051Z,2025-10-23T15:34:53.103Z
+495083635916,Michael,Johnson,michael.johnson@nytech.com,+12125551234,NY Tech Solutions,CTO,marketingqualifiedlead,OPEN,2025-10-22T16:57:16.083Z,2025-10-23T15:34:56.632Z
+495084938469,Nora,Al-Mogren,nora.almogren@ksahealth.sa,+966456789012,KSA Healthcare,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.053Z,2025-10-23T15:35:06.046Z
+495084938470,Fahad,Al-Sudairi,fahad.alsudairi@riyadhtech.sa,+966345678901,Riyadh Technologies,CTO,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.051Z,2025-10-23T15:34:47.444Z
+495084938471,Elena,Rodriguez,elena.rodriguez@mexicocityfinance.com.mx,+524567890123,Mexico City Finance,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.056Z,2025-10-23T15:35:03.952Z
+495084938472,Ricardo,Martinez,ricardo.martinez@panamacitytech.com.pa,+50734567890,Panama City Tech,CTO,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.069Z,2025-10-23T15:35:16.236Z
+495086349530,Thomas,Brown,thomas.brown@ukmanufacturing.co.uk,+443456789012,UK Manufacturing Ltd,Manager,lead,NEW,2025-10-22T16:57:16.095Z,2025-10-23T00:43:27.940Z
+495086452930,Aba,Mensah,aba.mensah@kumasifinance.com.gh,+233456789012,Kumasi Finance,Manager,lead,NEW,2025-10-22T16:57:16.090Z,2025-10-23T15:35:02.873Z
+495089104120,Jennifer,Wilson,jennifer.wilson@americanfinance.com,+13035556789,American Finance Corp,Director,salesqualifiedlead,IN_PROGRESS,2025-10-22T16:57:16.052Z,2025-10-23T01:15:00.960Z
+495089104121,Siti,Rahman,siti.rahman@malaysiahealth.my,+60323456789,Malaysia Healthcare,Director,customer,OPEN_DEAL,2025-10-22T16:57:16.053Z,2025-10-23T15:37:27.588Z

@@ -1,0 +1,43 @@
+# Environment and API keys
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+output/*.log
+
+# Output files (keep structure, ignore content)
+output/reports/*.txt
+output/reports/*.csv
+output/reports/*.html
+!output/reports/.gitkeep
+
+# Data files (if sensitive)
+# Uncomment if you don't want to commit your data
+# data/*.csv
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
